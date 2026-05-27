@@ -2,3 +2,7 @@
 	path = third_party/pto-isa
 	url = https://github.com/hw-native-sys/pto-isa
 	branch = main
+[submodule "third_party/sglang"]
+	path = third_party/sglang
+	url = https://github.com/DavidKarFaiTam/sglang
+	branch = dsv4_release
