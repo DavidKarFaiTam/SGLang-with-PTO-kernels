@@ -1,6 +1,6 @@
 [submodule "third_party/pto-isa"]
 	path = third_party/pto-isa
-	url = https://github.com/hw-native-sys/pto-isa
+	url = https://github.com/DavidKarFaiTam/pto-isa
 	branch = main
 [submodule "third_party/sglang"]
 	path = third_party/sglang
